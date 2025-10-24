@@ -1,4 +1,4 @@
-ChatGPT сказал:
+
 # 🛒 ReduxCart — React + Redux Toolkit Demo Project
 
 This project is a minimal **React application** built to demonstrate the practical use of **Redux Toolkit** for managing global state and handling asynchronous operations.  
