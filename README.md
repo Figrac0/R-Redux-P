@@ -5,7 +5,7 @@ This project is a minimal **React application** built to demonstrate the practic
 It simulates an online shopping cart that communicates with a **Firebase Realtime Database** to persist data remotely.
 
 ---
-
+ 
 ## 📦 Overview
 
 ReduxCart allows the user to:
